@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **swarajdeo27112002@gmail.com**
 
-- ⚡ Fun fact **I think we humans are also a complex code**
+- ⚡ Fun fact **I think we humans are a complex code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
