@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarajdeo&label=Profile%20views&color=0e75b6&style=flat" alt="swarajdeo" /> </p>
 
-- 🔭 I’m currently working on **Personal Assistant**
+- 🔭 I’m currently working on **improving my Skills**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Projects , A.I.**
+- 💬 Ask me about **My Projects**
 
 - 📫 How to reach me **swarajdeo27112002@gmail.com**
 
